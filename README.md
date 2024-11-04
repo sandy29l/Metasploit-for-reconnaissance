@@ -1,8 +1,8 @@
-# Metasploit-for-reconnaissance
-# Metasploit
+# EX-5- METASPLOIT-FOR-RECONNAISSANCE
+## Metasploit
 Metasploit for reconnaissance in pentesting
 
-# AIM:
+## AIM:
 
 To get introduced to Metasploit Framework and to  perform reconnaissance  in pentesting .
 
